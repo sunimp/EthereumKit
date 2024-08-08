@@ -30,11 +30,8 @@ geth.sendRawTransaction(rawTransaction: tx) { result in
 }
 ```
 
-## Set up
-
-- Run `make bootstrap`
-
 ## Features
+
 - Mnemonic recovery phrease in [BIP39](https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki)
 - [BIP32](https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki)/[BIP44](https://github.com/bitcoin/bips/blob/master/bip-0044.mediawiki) HD wallet
 - [EIP55](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-55.md) format address encoding
@@ -72,10 +69,6 @@ Simply add the following lines to dependencies of your Package.swift:
 
 - [gnosis/safe-ios](https://github.com/gnosis/safe-ios): Gnosis Safe is a multi signature (2FA) wallet for personal usage.
 - [popshootjapan/WeiWallet-iOS](https://github.com/popshootjapan/WeiWallet-iOS): Wei Wallet for iOS
-## Author
-
-Ryo Fukuda, [@yuzushioh](https://twitter.com/yuzushioh), yuzushioh@gmail.com
-
 
 ## License
 EthereumKit is released under the [Apache License 2.0](LICENSE.md).
