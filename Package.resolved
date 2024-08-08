@@ -1,0 +1,42 @@
+{
+  "originHash" : "0c7370501320c3c92538d31e25dc7c7946a874ebbde197936676b4e7a345ecee",
+  "pins" : [
+    {
+      "identity" : "cryptoethereumswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/sunimp/CryptoEthereumSwift",
+      "state" : {
+        "revision" : "8abf1c122aaf3284e49eb1e8f1990632160c15ec",
+        "version" : "1.0.1"
+      }
+    },
+    {
+      "identity" : "cryptoswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/krzyzanowskim/CryptoSwift.git",
+      "state" : {
+        "revision" : "678d442c6f7828def400a70ae15968aef67ef52d",
+        "version" : "1.8.3"
+      }
+    },
+    {
+      "identity" : "openssl",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/krzyzanowskim/OpenSSL.git",
+      "state" : {
+        "revision" : "7405324f9b1a64a79e5fa3660d2eda901d1337f2",
+        "version" : "3.3.1000"
+      }
+    },
+    {
+      "identity" : "swift-secp256k1",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/21-DOT-DEV/swift-secp256k1.git",
+      "state" : {
+        "revision" : "9683e8e311c76d8114cd308b697dad2f9fc58fed",
+        "version" : "0.17.0"
+      }
+    }
+  ],
+  "version" : 3
+}
